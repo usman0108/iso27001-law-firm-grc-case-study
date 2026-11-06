@@ -1,0 +1,80 @@
+# 05. Supplier Security Assessment
+
+## Purpose
+
+Harrow & Lane LLP uses an external e-discovery provider to help process and review legal documents.
+
+Because this supplier may access confidential client information, I need to consider the security risks involved before recommending its use.
+
+## Supplier Overview
+
+**Supplier:** DiscoveryPoint Ltd (fictional)
+
+**Service:** Cloud-based e-discovery and legal document review
+
+**Information handled:** Confidential client documents, legal case files and personal information
+
+**Risk level:** High (initial assessment)
+
+**Reason:** A security breach at the supplier could expose sensitive client information and damage the firm's reputation.
+
+## Supplier Security Questionnaire
+
+These are the questions I would ask before assessing the supplier's security arrangements.
+
+| No. | Security Question | Evidence Requested |
+|---|---|---|
+| 1 | Does the supplier have ISO 27001 certification? | Current certificate and scope |
+| 2 | Is multi-factor authentication enforced? | Authentication policy |
+| 3 | Is client information encrypted? | Encryption documentation |
+| 4 | Who can access confidential documents? | Access control policy |
+| 5 | How are security incidents reported? | Incident response procedure |
+| 6 | Are backups performed and tested? | Backup and recovery evidence |
+| 7 | Are employees given security training? | Training records |
+| 8 | How is client data deleted after a contract ends? | Data retention and deletion policy |
+
+**Assessment status:** Evidence not yet available. The supplier is fictional, so no actual questionnaire responses or certifications have been verified.
+
+## Main Risks Identified
+
+### Risk 1: Unauthorised access
+
+A supplier employee could access confidential legal files without permission.
+
+**Recommended action:** Check access controls, authentication and user access reviews.
+
+### Risk 2: Supplier data breach
+
+An attacker could compromise the supplier's systems and access client information.
+
+**Recommended action:** Request security assurance evidence, review incident reporting arrangements and check contractual responsibilities.
+
+### Risk 3: Poor data retention
+
+The supplier might retain sensitive client documents after they are no longer required.
+
+**Recommended action:** Establish clear retention requirements and secure deletion procedures.
+
+## Assessment Outcome
+
+I would classify DiscoveryPoint Ltd as a high-priority supplier for security review.
+
+I would not recommend final security approval without sufficient evidence of its controls and agreed contractual protections.
+
+My next actions would be to:
+
+1. Request the eight pieces of supporting evidence.
+2. Review the supplier's security arrangements and identify gaps.
+3. Record outstanding risks and recommend whether further controls are needed.
+
+## ISO 27001 Alignment
+
+This assessment supports the following ISO 27001:2022 Annex A control areas:
+
+- A.5.19 — Information security in supplier relationships
+- A.5.20 — Security requirements in supplier agreements
+- A.5.22 — Monitoring and reviewing supplier services
+
+## Limitations
+
+This is a simulated supplier assessment for portfolio learning. No real supplier has been contacted or assessed, and no actual security evidence has been reviewed.
