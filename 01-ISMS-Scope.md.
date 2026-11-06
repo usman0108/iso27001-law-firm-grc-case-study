@@ -1,0 +1,39 @@
+01. ISMS Scope
+
+Organisation
+
+Harrow & Lane LLP is a fictional London law firm with 60 employees. It handles confidential legal documents, client financial information and personal data.
+
+The firm uses Microsoft 365, a cloud document management system and an outsourced IT provider.
+
+What is included?
+
+The Information Security Management System (ISMS) covers:
+
+All 60 employees and their work devices.
+
+Microsoft 365, including Outlook, Teams and OneDrive.
+
+The firm's cloud document management system.
+
+Confidential client files and financial records.
+
+Office networks and remote working.
+
+Security risks involving external IT suppliers.
+
+What is excluded?
+
+The internal infrastructure of third-party suppliers is outside the firm's direct control. However, risks arising from those suppliers will still be assessed and managed.
+
+Why this scope?
+
+The firm handles sensitive client information, so protecting confidentiality, integrity and availability is important.
+
+This scope focuses on the people, systems and information most relevant to the firm's legal services.
+
+Project Assumptions
+
+The firm operates from one London office and supports remote working. These details are fictional assumptions used for this exercise.
+
+This is a simulated ISO 27001 project, not an actual certification assessment.
